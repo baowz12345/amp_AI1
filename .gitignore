@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large caches (regenerable by running scripts)
+results/*.npy
+results/protbert_rep.npy
+results/contrastive_rep.npy
+
+# Logs / scratch
+logs_*.txt
+err.txt
+_user_*.png
+
+# Word / PDF build artifacts (not needed on GitHub)
+*.docx
+*.pdf
+*.pptx
+.word_task*/

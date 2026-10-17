@@ -1,0 +1,5 @@
+﻿case,label,seq,len,source,DPC_IE,AAC_K,AAC_W,hydrophobic_moment
+LL-37,Animal AMP,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,37,Human cathelicidin LL-37,0.000,0.162,0.000,0.966
+Magainin-2,Animal AMP,GIGKFLHSAKKFGKAFVGEIMNS,23,Xenopus (African clawed frog) magainin-2,0.000,0.174,0.000,0.686
+Cecropin-A,Animal AMP,KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK,37,Moth (Hyalophora cecropia) cecropin-A,0.028,0.189,0.027,0.795
+Defensin-like,Non-animal control,GWFTAVQLTLAGRCGRWFTGSFECTTNNVKCG,32,Plant defensin-like peptide (non-animal control),0.000,0.031,0.062,0.617
